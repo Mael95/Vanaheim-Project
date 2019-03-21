@@ -1,2 +1,2 @@
 # Vanaheim-Project
-Github reserved for bug reports and developer fixes in VANAHEIM, a private server of Ragnarok Online.
+We are a private development server project in C ++ created by open source MMORPG multiplatform rAthena.
